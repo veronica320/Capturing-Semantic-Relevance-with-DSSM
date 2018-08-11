@@ -5,6 +5,7 @@ This is the project for FUTURE CAMP NLP WEEK2. With a Keras implementation of DS
 # Structure
 
 * conf.py: configuration for parameters and directory names.
+* data_provider.py: data providing functions.
 * model_structure: the nn structure for DSSM/CDSSM/CGRU.
 * train.py: training model.
 * eval.py: evaluating model.
