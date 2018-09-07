@@ -1,6 +1,6 @@
 # Summary
 
-This is the project for FUTURE CAMP NLP WEEK2. With a Keras implementation of DSSM/CDSSM/CGRU, the model determines whether two given sentences are related to each other.
+This is the project for FUTURE CAMP NLP WEEK2. With a Keras implementation of DSSM/CDSSM, the model determines whether two given sentences are related to each other.
 
 # Structure
 
