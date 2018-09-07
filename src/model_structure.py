@@ -14,7 +14,6 @@ from keras.layers.merge import concatenate, dot
 from keras.models import Model
 from keras import regularizers, optimizers
 
-# 封装了三种模型结构
 def create_model(model_name,
                  model_type,
                  nb_class=2,
